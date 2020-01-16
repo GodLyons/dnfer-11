@@ -3,4 +3,12 @@
   background-image: url("../asset/login.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
+  .login-form-box {
+    position: fixed;
+    top: 20%;
+    right: 40px;
+    width: 25%;
+    height: 55%;
+    background-color: #ff0;
+  }
 }
